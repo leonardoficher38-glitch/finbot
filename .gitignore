@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+instance/
+*.db
+static/charts/*.png
+static/exports/*.csv
+.DS_Store
